@@ -107,11 +107,11 @@ const posicoes = [
     { left: 15, top: 35 }, //BOLO
     { left: 75, top: 35 }, //LUCK
     { left: 40, top: 3  }, //JUNTA
-    { left: 13, top:  55 }, //ESTRELA AMARELA
+    { left: 10, top:  55 }, //ESTRELA AMARELA
     { left: 2,  top: 40 }, //PEQUENA
-    { left: 80, top: 50 }, //GOLDEN
+    { left: 80, top: 37 }, //GOLDEN
     { left: 25, top: 70 }, //PRATA
-    { left: 90, top: 65} //ROSA
+    { left: 90, top: 50} //ROSA
 ];
 
 elementosFundo.forEach((el, index) => {
