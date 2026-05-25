@@ -109,7 +109,7 @@ const posicoes = [
     { left: 40, top: 3  }, //JUNTA
     { left: 10, top:  55 }, //ESTRELA AMARELA
     { left: 2,  top: 40 }, //PEQUENA
-    { left: 80, top: 37 }, //GOLDEN
+    { left: 80, top: 50 }, //GOLDEN
     { left: 25, top: 70 }, //PRATA
     { left: 90, top: 50} //ROSA
 ];
