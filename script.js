@@ -104,16 +104,16 @@ const repeticoes = 3;
 const posicoes = [
     { left: 2,  top: 5  },
     { left: 75, top: 1  },
-    { left: 15, top: 25 },
-    { left: 65, top: 27 },
+    { left: 15, top: 35 },
+    { left: 75, top: 45 },
     { left: 40, top: 3  },
-    { left: 20, top: 50 },
-    { left: 2,  top: 30 },
-    { left: 70, top: 40 },
+    { left: 20, top: 54 },
+    { left: 2,  top: 50 },
+    { left: 70, top: 60 },
     { left: 25, top: 50 },
-    { left: 70, top: 48 },
+    { left: 70, top: 70},
     { left: 80, top: 19 },
-    { left: 10, top: 65},
+    
 ];
 
 elementosFundo.forEach((el, index) => {
