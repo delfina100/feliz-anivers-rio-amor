@@ -91,7 +91,7 @@ const elementosFundo = [
     { src: 'bolo.png',        tamanho: 90  },
     { src: 'luck.png',     tamanho: 80  },
     { src: 'juntas.png',    tamanho: 60  },
-    { src: 'estrela amarela.png', tamanho: 40  },
+    { src: 'estrela amarela.png', tamanho: 25  },
     { src: 'pequena.png',    tamanho: 120  },
     { src: 'star golden.png',  tamanho: 60  },
     { src: 'star prata.png',   tamanho: 90 },
@@ -107,11 +107,11 @@ const posicoes = [
     { left: 15, top: 35 }, //BOLO
     { left: 75, top: 35 }, //LUCK
     { left: 40, top: 3  }, //JUNTA
-    { left: 20, top:  40 }, //ESTRELA AMARELA
-    { left: 2,  top: 50 }, //PEQUENA
-    { left: 70, top: 60 }, //GOLDEN
+    { left: 13, top:  55 }, //ESTRELA AMARELA
+    { left: 2,  top: 40 }, //PEQUENA
+    { left: 80, top: 50 }, //GOLDEN
     { left: 25, top: 70 }, //PRATA
-    { left: 90, top: 70} //ROSA
+    { left: 90, top: 65} //ROSA
 ];
 
 elementosFundo.forEach((el, index) => {
